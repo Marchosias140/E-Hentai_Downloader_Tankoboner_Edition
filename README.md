@@ -35,7 +35,7 @@ This app is better run inside a Python environment for better dependency managem
 
 
 
-This app is much like the same as my E-Hentai_Downloader app, but adding an script called ```Hentai_Tankobon_Maker.sh``` which generates the following operations after the ```Scraped_Images``` folder is created:
+This app is much like the same as my E-Hentai_Downloader app (check it out here https://github.com/Marchosias140/E-Hentai_Downloader ), but adding an script called ```Hentai_Tankobon_Maker.sh``` which generates the following operations after the ```Scraped_Images``` folder is created:
 
 
 
