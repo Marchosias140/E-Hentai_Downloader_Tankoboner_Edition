@@ -2,7 +2,7 @@
 
 Downloading () {
 
-E-Hentai_Downloader
+python3 E_Hentai_Downloader.py
 
 sleep 2s
 
