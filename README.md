@@ -12,7 +12,13 @@ Downloads galleries from e-hentai.org and converts them into .cbz files.
 
 
 
-cbz-converter
+- cbz-converter
+
+- selenium
+
+- requests
+
+- bs4
 
 
 
