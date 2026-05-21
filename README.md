@@ -65,5 +65,13 @@ This app is much like the same as my E-Hentai_Downloader app (check it out here 
 
 Have fun!
 
+# If this App was useful, consider donating Solana
+
+
+
+
+
+9Qp3FrwKU84aenPeRt9tGqNCjSQuEc4GcBm2Eqzxbeo5
+
 
 
